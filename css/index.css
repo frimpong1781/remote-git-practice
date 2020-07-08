@@ -1,0 +1,12 @@
+
+h1 {
+	color: lightblue;
+	font-weight: 600;
+}
+
+.box {
+	height: 100px;
+	width: 150px;
+	border: 2px solid blue;
+	background-color: lightblue;
+}
